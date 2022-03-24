@@ -5,7 +5,7 @@
 
 ### Here are some ideas about me
 - 🔭 I’m currently doing BA in English at [Daffodil International University](https://daffodilvarsity.edu.bd/)
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React.js**
 - 🎯 2022 Goals: **Getting Intern/Hired**
 - 💻 Most used code ```console.log();```
 - 😝 Fun fact: **I Think I am funny**
