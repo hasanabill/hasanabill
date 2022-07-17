@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **React.js**
 - 🎯 2022 Goals: **Getting Intern/Hired**
 - 💻 Most used code ```console.log();```
-- 😝 Fun fact: **I Think I am funny**
 
 
 
