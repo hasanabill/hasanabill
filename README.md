@@ -5,8 +5,8 @@
 
 ### Here are some ideas about me
 - 🔭 I’m currently doing BSc. in Computing and Information System at [Daffodil International University](https://daffodilvarsity.edu.bd/)
-- 🌱 I’m currently learning **C programming**
-- 🎯 2022 Goals: **Getting Intern/Hired**
+- 🌱 I’m currently learning **Data Structure & Algorithm**
+- 🎯 2023 Goals: **Being good at problem solving**
 - 💻 Most used code ```console.log();```
 
 
