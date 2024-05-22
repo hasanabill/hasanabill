@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Items-n-ideas<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about anything<br>⚡ Fun fact I love Astronomy and History
+🔭 I’m currently working on fitness-tracker<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about anything<br>⚡ Fun fact I love Astronomy and History
 
 
 ## 🌐 Socials:
