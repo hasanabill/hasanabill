@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Preparing for ICPC 2024<br>🌱 I’m currently learning DSA<br>💬 Ask me about anything<br>⚡ Fun fact I love Astronomy and History
+🔭 I’m currently building my portfolio<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about anything<br>⚡ Fun fact I love Astronomy and History
 
 
 ## 🌐 Socials:
